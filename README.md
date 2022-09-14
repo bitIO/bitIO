@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Francisco (Paco)
+![Header](./header.png)
 
-* 👋 Hi, I’m Francisco
+* 👋 Hi, I’m bitIO (born Francisco, know as Paco in the _"real"_ world)
 * 📕 I've created software for EU, BBVA and others
 * 👀 I’m interested in Building full stack apps that help others
 * 🌱 I’m currently learning "Well Architected Framework"
