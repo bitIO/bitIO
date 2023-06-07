@@ -47,6 +47,6 @@
 
 ![bitIO's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitio&show_icons=true)
 
-[![bitIO's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitio&layout=compact)](https://github.com/bitio/bitio)
+![WakaTime Top langs](https://wakatime.com/share/@fcallem/28591ecd-02e0-4932-9d3f-1c878fc52aca.svg)
 
-[![bitIO's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fcallem)](https://github.com/bitio/bitio)
+![WakaTime activity](https://wakatime.com/share/@fcallem/f36f423b-55d7-408b-bc57-4c47cadb7e60.svg)
