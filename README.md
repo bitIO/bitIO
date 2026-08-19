@@ -46,7 +46,8 @@
 
 ## Some stats
 
-![bitIO's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitio&show_icons=true)
+<!-- https://github-stats-extended.vercel.app/frontend -->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=bitIO&show_icons=true&include_all_commits=true&theme=shadow_green)](https://github-stats-extended.vercel.app/api?username=bitIO&show_icons=true&include_all_commits=true&theme=shadow_green)
 
 ![WakaTime Top langs](https://wakatime.com/share/@fcallem/28591ecd-02e0-4932-9d3f-1c878fc52aca.svg)
 
