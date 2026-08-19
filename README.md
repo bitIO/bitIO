@@ -3,7 +3,7 @@
 * 👋 Hi, I’m bitIO (born Francisco, know as Paco in the _"real"_ world)
 * 📕 I've created software for EU, BBVA and others
 * 👀 I’m interested in Building full stack apps that help others
-* 🌱 I’m currently learning "Well Architected Framework"
+* 🌱 I’m currently learning "AI stuff" ... whatever that means
 * 💞️ I’m looking to collaborate if you have a great Idea
 
 <h3>Things I code with</h3>
@@ -15,6 +15,7 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-ea2845?style=for-the-badge&logo=nextdotjs&logoColor=white" />   
   <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
